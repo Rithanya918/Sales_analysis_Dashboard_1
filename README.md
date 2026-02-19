@@ -17,6 +17,7 @@ Covers hourly and weekly trends, sales by category and size, and total orders vs
 Covers Top 5 and Bottom 5 pizzas by Revenue, Quantity, and Total Orders.
 
 ![Pizza Sales Dashboard - Best & Worst Sellers](https://github.com/user-attachments/assets/122ddaf4-0ca3-40dc-b813-6d92171858ad)
+
 ---
 ## Problem Statement
 
