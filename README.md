@@ -8,12 +8,12 @@ This project involves end-to-end analysis of pizza sales data using SQL (MySQL W
 
 ## Dashboard Pages
 
-### Page 1 — Home (Sales Overview)
+### 1.Home (Sales Overview)
 Covers hourly and weekly trends, sales by category and size, and total orders vs. pizzas sold by category.
 
 ![Pizza Sales Dashboard - Home](https://github.com/user-attachments/assets/df355b8e-0a5f-4bee-a7ca-ac4606fcb975)
 
-### Page 2 — Best & Worst Sellers
+### 2.Best & Worst Sellers
 Covers Top 5 and Bottom 5 pizzas by Revenue, Quantity, and Total Orders.
 
 ![Pizza Sales Dashboard - Best & Worst Sellers](https://github.com/user-attachments/assets/122ddaf4-0ca3-40dc-b813-6d92171858ad)
@@ -70,7 +70,6 @@ We visualized various aspects of the pizza sales data to gain insights and under
 
 ---
 
----
 
 ## Key Findings
 
@@ -83,27 +82,6 @@ We visualized various aspects of the pizza sales data to gain insights and under
 
 ---
 
-## Project Structure
-
-```
-pizza-sales-project/
-│
-├── data/
-│   └── pizza_data.csv              # Raw data file
-│
-├── sql/
-│   ├── kpi_queries.sql             # SQL queries for all 5 KPIs
-│   └── chart_queries.sql           # SQL queries for all 7 chart requirements
-│
-├── tableau/
-│   ├── pizza_sales_home.png        # Dashboard Page 1 screenshot
-│   └── pizza_sales_sellers.png     # Dashboard Page 2 screenshot
-│
-└── README.md                       # Project documentation
-```
-
----
-
 ## How to Reproduce
 
 1. Import `pizza_data.csv` into MySQL Workbench or Snowflake
@@ -112,8 +90,3 @@ pizza-sales-project/
 4. Connect Tableau to your database and build the dashboards using the chart requirements above
 
 ---
-
-## Author
-
-**Rithanya Sekar**
-Data Analytics Project | 2015 Pizza Sales Analysis
