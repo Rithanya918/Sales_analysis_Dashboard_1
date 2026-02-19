@@ -61,6 +61,7 @@ We visualized various aspects of the pizza sales data to gain insights and under
 
 ### Page 1 — Home (Sales Overview)
 Covers hourly and weekly trends, sales by category and size, and total orders vs. pizzas sold by category.
+https://github.com/user-attachments/assets/df355b8e-0a5f-4bee-a7ca-ac4606fcb975
 
 ### Page 2 — Best & Worst Sellers
 Covers Top 5 and Bottom 5 pizzas by Revenue, Quantity, and Total Orders.
