@@ -64,7 +64,7 @@ Covers hourly and weekly trends, sales by category and size, and total orders vs
 
 ### Page 2 — Best & Worst Sellers
 Covers Top 5 and Bottom 5 pizzas by Revenue, Quantity, and Total Orders.
-
+https://github.com/user-attachments/assets/8b2e826a-038d-4664-b1dc-7bc36af24ae6
 ---
 
 ## Key Findings
