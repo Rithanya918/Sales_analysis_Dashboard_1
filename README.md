@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/df355b8e-0a5f-4bee-a7ca-ac4606fcb975
 
 ### Page 2 — Best & Worst Sellers
 Covers Top 5 and Bottom 5 pizzas by Revenue, Quantity, and Total Orders.
-https://github.com/user-attachments/assets/8b2e826a-038d-4664-b1dc-7bc36af24ae6
+https://github.com/user-attachments/assets/122ddaf4-0ca3-40dc-b813-6d92171858ad
 ---
 
 ## Key Findings
