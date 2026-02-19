@@ -6,6 +6,18 @@ This project involves end-to-end analysis of pizza sales data using SQL (MySQL W
 
 ---
 
+## Dashboard Pages
+
+### Page 1 — Home (Sales Overview)
+Covers hourly and weekly trends, sales by category and size, and total orders vs. pizzas sold by category.
+
+![Pizza Sales Dashboard - Home](https://github.com/user-attachments/assets/df355b8e-0a5f-4bee-a7ca-ac4606fcb975)
+
+### Page 2 — Best & Worst Sellers
+Covers Top 5 and Bottom 5 pizzas by Revenue, Quantity, and Total Orders.
+
+![Pizza Sales Dashboard - Best & Worst Sellers](https://github.com/user-attachments/assets/122ddaf4-0ca3-40dc-b813-6d92171858ad)
+---
 ## Problem Statement
 
 ### KPI Requirements
@@ -57,15 +69,6 @@ We visualized various aspects of the pizza sales data to gain insights and under
 
 ---
 
-## Dashboard Pages
-
-### Page 1 — Home (Sales Overview)
-Covers hourly and weekly trends, sales by category and size, and total orders vs. pizzas sold by category.
-https://github.com/user-attachments/assets/df355b8e-0a5f-4bee-a7ca-ac4606fcb975
-
-### Page 2 — Best & Worst Sellers
-Covers Top 5 and Bottom 5 pizzas by Revenue, Quantity, and Total Orders.
-https://github.com/user-attachments/assets/122ddaf4-0ca3-40dc-b813-6d92171858ad
 ---
 
 ## Key Findings
